@@ -23,7 +23,7 @@ Codify is a full-stack web application inspired by LeetCode, designed to provide
 
 **Backend Setup:**
 
-1. Clone the repository: `https://github.com/vinay6964/Codify.git`
+1. Clone the repository: `git clone https://github.com/RajSahu1331/Judge.git`
 2. Navigate to the backend directory: `cd server`
 3. Install dependencies: `npm install`
 4. Start the server: `nodemon app.js`
@@ -34,4 +34,26 @@ Codify is a full-stack web application inspired by LeetCode, designed to provide
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
 
-**
+**Usage**
+
+- Access the application in your browser (default: [http://localhost:3000](http://localhost:3000)).
+- Sign up or log in using JWT authentication.
+- Choose a programming language (currently Python or C++).
+- Write your code in the code editor.
+- Create and run custom test cases (optional).
+- Click "Submit" to execute the code and receive results and verdict.
+
+  **Design Diagram**
+
+https://github.com/user-attachments/assets/181ddbbb-d7df-4c27-894d-3cf8efc77c02
+
+**Additional Notes**
+
+- For detailed instructions and usage examples, refer to the project's documentation or code comments.
+- Feel free to contribute to the project by creating pull requests.
+
+**Future Enhancements**
+
+- Considering adding support for more programming languages.
+- Implementing more advanced features like code optimization suggestions and plagiarism detection.
+- Explore containerization and deployment options for scalability using Docker and AWS Lambda Instance.
