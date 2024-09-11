@@ -45,7 +45,8 @@ Codify is a full-stack web application inspired by LeetCode, designed to provide
 
   **Design Diagram**
 
-https://github.com/user-attachments/assets/181ddbbb-d7df-4c27-894d-3cf8efc77c02
+![Design Diagram](./codify.svg)
+
 
 **Additional Notes**
 
