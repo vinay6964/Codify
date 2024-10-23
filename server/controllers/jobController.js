@@ -76,7 +76,6 @@ const submitHandler = async (req, res) => {
       }
 
       const userInput = data.toString();
-      // console.log(typeof userInput);
 
       if (code === undefined || !code) {
         return res
